@@ -22,7 +22,7 @@ The objective of this Power BI project is to analyze and visualize chocolate sal
 
   [View Dashboard](https://github.com/samuelzeleke27/Sweet-Treat-Sales-Report-2024/blob/main/Visual_Picture.pdf)
 
-  # Project Process
+  ## Project Process
 - Data Collection – Imported sales dataset from CSV into Power BI.
 
 - Data Cleaning – Used Power Query to format dates, fix inconsistencies, and remove nulls.
