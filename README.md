@@ -20,6 +20,6 @@ The objective of this Power BI project is to analyze and visualize chocolate sal
 
 - Which region-product combinations are underperforming?
 
-  [View Dashboard]https://github.com/samuelzeleke27/Sweet-Treat-Sales-Report-2024/blob/main/Visual_Picture.pdf
+  [View Dashboard](https://github.com/samuelzeleke27/Sweet-Treat-Sales-Report-2024/blob/main/Visual_Picture.pdf)
 
 
