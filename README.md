@@ -5,4 +5,19 @@ The objective of this Power BI project is to analyze and visualize chocolate sal
 # Dataset Used
 [Dataset.csv](https://github.com/samuelzeleke27/Sweet-Treat-Sales-Report-2024/blob/main/Sales_Analy.csv)
 
+## Questions (KPIs)
+- What is the total sales amount across all regions?
+
+- Which salesperson generated the highest revenue?
+
+- Which product is the top performer in terms of sales and quantity shipped?
+
+- What are the sales trends over time (monthly/quarterly)?
+
+- Which countries contribute the most to overall sales?
+
+- How does the number of boxes shipped correlate with sales amount?
+
+- Which region-product combinations are underperforming?
+
 
