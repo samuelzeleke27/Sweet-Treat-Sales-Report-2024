@@ -1,2 +1,4 @@
-# Sweet-Treat-Sales-Report-2024
-This Power BI project visualizes global chocolate sales data across products, countries, and salespeople. It provides insights into total revenue, boxes shipped, and top-performing regions and products using dynamic visuals and DAX measures. The dashboard helps explore sales trends and performance in a clear, interactive way.
+#Sweet Treat Sales Report 2024 (Power BI Visualization) 
+##Project Objectives
+The objective of this Power BI project is to analyze and visualize chocolate sales data across various regions, products, and sales representatives. By leveraging Power BI’s interactive features and DAX calculations, the dashboard aims to provide actionable insights into total sales, shipping volumes, product performance, and regional trends to support data-driven decision-making.
+
